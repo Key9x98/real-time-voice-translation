@@ -1,0 +1,7 @@
+transformers==4.51.3
+torch>=2.0.0
+huggingface_hub>=0.20.0
+openai
+dotenv
+elevenlabs
+assemblyai

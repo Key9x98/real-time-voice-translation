@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv*/
+venv-speechtospeech/
+
+# Ignore environment files
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
