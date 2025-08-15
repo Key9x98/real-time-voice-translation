@@ -1,0 +1,12 @@
+# Cấu hình dự án Real Time Voice Translation
+ASSEMBLY_API_KEY: "your_assemblyai_api_key"
+GEMINI_API_KEY: "your_gemini_api_key"
+ELEVENLABS_API_KEY: "your_elevenlabs_api_key"
+TRANSLATION_MODEL: "unsloth/Qwen2.5-1.5B"
+TTS_MODEL: "suno/bark"
+LANGUAGES:
+  source: "en"
+  target: "vi"
+AUDIO:
+  sample_rate: 22050
+  chunk_size: 1024

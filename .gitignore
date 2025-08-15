@@ -4,6 +4,7 @@ venv-speechtospeech/
 
 # Ignore environment files
 .env
+.github\copilot\instructions.md
 
 # Ignore Python cache files
 __pycache__/
